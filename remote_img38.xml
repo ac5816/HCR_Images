@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HCR_Images</folder>
+	<filename>remote_img38.jpg</filename>
+	<path>/Users/Pranav/Desktop/Images_to_label/HCR_Images/remote_img38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>remote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>210</ymin>
+			<xmax>406</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>
