@@ -1,7 +1,7 @@
 <annotation>
 	<folder>combined_images</folder>
-	<filename>book_img1.jpg</filename>
-	<path>/home/prl4/Desktop/image_data/combined_images/book_img1.jpg</path>
+	<filename>book_img0.jpg</filename>
+	<path>/home/prl4/Desktop/image_data/combined_images/book_img0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>295</xmin>
-			<ymin>202</ymin>
-			<xmax>385</xmax>
-			<ymax>282</ymax>
+			<xmin>161</xmin>
+			<ymin>101</ymin>
+			<xmax>281</xmax>
+			<ymax>238</ymax>
 		</bndbox>
 	</object>
 </annotation>
