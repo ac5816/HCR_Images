@@ -1,0 +1,26 @@
+<annotation>
+	<folder>teddy</folder>
+	<filename>remote_img91.jpg</filename>
+	<path>/home/prl4/Desktop/image_data/teddy/remote_img91.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>remote</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>145</ymin>
+			<xmax>406</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>
