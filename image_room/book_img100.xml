@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image_room</folder>
+	<filename>book_img100.jpg</filename>
+	<path>/home/prl4/Desktop/image_data/image_room/book_img100.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>254</xmin>
+			<ymin>58</ymin>
+			<xmax>373</xmax>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+</annotation>
